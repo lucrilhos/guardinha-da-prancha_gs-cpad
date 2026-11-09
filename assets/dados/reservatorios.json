@@ -1,0 +1,1086 @@
+{
+ "fonte": "Sabesp - Mananciais (dados públicos, volume útil diário)",
+ "atualizado_ate": "2026-11-05",
+ "registros": [
+  {
+   "data": "2026-05-10",
+   "rio_grande_pct": 88.03,
+   "rio_grande_chuva_mm": 5.6,
+   "integrado_pct": 53.41
+  },
+  {
+   "data": "2026-05-11",
+   "rio_grande_pct": 88.32,
+   "rio_grande_chuva_mm": 16.0,
+   "integrado_pct": 53.55
+  },
+  {
+   "data": "2026-05-12",
+   "rio_grande_pct": 88.26,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 53.56
+  },
+  {
+   "data": "2026-05-13",
+   "rio_grande_pct": 88.08,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 53.47
+  },
+  {
+   "data": "2026-05-14",
+   "rio_grande_pct": 87.86,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 53.37
+  },
+  {
+   "data": "2026-05-15",
+   "rio_grande_pct": 87.64,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 53.24
+  },
+  {
+   "data": "2026-05-16",
+   "rio_grande_pct": 87.52,
+   "rio_grande_chuva_mm": 3.0,
+   "integrado_pct": 53.14
+  },
+  {
+   "data": "2026-05-17",
+   "rio_grande_pct": 87.45,
+   "rio_grande_chuva_mm": 7.4,
+   "integrado_pct": 53.03
+  },
+  {
+   "data": "2026-05-18",
+   "rio_grande_pct": 87.25,
+   "rio_grande_chuva_mm": 0.8,
+   "integrado_pct": 52.99
+  },
+  {
+   "data": "2026-05-19",
+   "rio_grande_pct": 87.09,
+   "rio_grande_chuva_mm": 1.6,
+   "integrado_pct": 52.98
+  },
+  {
+   "data": "2026-05-20",
+   "rio_grande_pct": 87.02,
+   "rio_grande_chuva_mm": 1.0,
+   "integrado_pct": 52.9
+  },
+  {
+   "data": "2026-05-21",
+   "rio_grande_pct": 86.94,
+   "rio_grande_chuva_mm": 2.2,
+   "integrado_pct": 52.82
+  },
+  {
+   "data": "2026-05-22",
+   "rio_grande_pct": 86.87,
+   "rio_grande_chuva_mm": 1.8,
+   "integrado_pct": 52.7
+  },
+  {
+   "data": "2026-05-23",
+   "rio_grande_pct": 86.91,
+   "rio_grande_chuva_mm": 7.0,
+   "integrado_pct": 52.59
+  },
+  {
+   "data": "2026-05-24",
+   "rio_grande_pct": 87.39,
+   "rio_grande_chuva_mm": 28.0,
+   "integrado_pct": 52.79
+  },
+  {
+   "data": "2026-05-25",
+   "rio_grande_pct": 87.47,
+   "rio_grande_chuva_mm": 0.2,
+   "integrado_pct": 52.82
+  },
+  {
+   "data": "2026-05-26",
+   "rio_grande_pct": 87.44,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 52.79
+  },
+  {
+   "data": "2026-05-27",
+   "rio_grande_pct": 87.28,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 52.7
+  },
+  {
+   "data": "2026-05-28",
+   "rio_grande_pct": 87.14,
+   "rio_grande_chuva_mm": 0.2,
+   "integrado_pct": 52.6
+  },
+  {
+   "data": "2026-05-29",
+   "rio_grande_pct": 86.94,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 52.48
+  },
+  {
+   "data": "2026-05-30",
+   "rio_grande_pct": 86.75,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 52.35
+  },
+  {
+   "data": "2026-05-31",
+   "rio_grande_pct": 86.55,
+   "rio_grande_chuva_mm": 0.2,
+   "integrado_pct": 52.21
+  },
+  {
+   "data": "2026-06-01",
+   "rio_grande_pct": 86.38,
+   "rio_grande_chuva_mm": 1.0,
+   "integrado_pct": 52.08
+  },
+  {
+   "data": "2026-06-02",
+   "rio_grande_pct": 86.16,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 51.97
+  },
+  {
+   "data": "2026-06-03",
+   "rio_grande_pct": 85.96,
+   "rio_grande_chuva_mm": 0.4,
+   "integrado_pct": 51.83
+  },
+  {
+   "data": "2026-06-04",
+   "rio_grande_pct": 85.74,
+   "rio_grande_chuva_mm": 0.2,
+   "integrado_pct": 51.73
+  },
+  {
+   "data": "2026-06-05",
+   "rio_grande_pct": 85.52,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 51.58
+  },
+  {
+   "data": "2026-06-06",
+   "rio_grande_pct": 85.31,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 51.44
+  },
+  {
+   "data": "2026-06-07",
+   "rio_grande_pct": 85.06,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 51.28
+  },
+  {
+   "data": "2026-06-08",
+   "rio_grande_pct": 84.81,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 51.14
+  },
+  {
+   "data": "2026-06-09",
+   "rio_grande_pct": 84.57,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 50.99
+  },
+  {
+   "data": "2026-06-10",
+   "rio_grande_pct": 84.29,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 50.84
+  },
+  {
+   "data": "2026-06-11",
+   "rio_grande_pct": 84.49,
+   "rio_grande_chuva_mm": 20.4,
+   "integrado_pct": 50.83
+  },
+  {
+   "data": "2026-06-12",
+   "rio_grande_pct": 84.49,
+   "rio_grande_chuva_mm": 0.2,
+   "integrado_pct": 50.82
+  },
+  {
+   "data": "2026-06-13",
+   "rio_grande_pct": 84.38,
+   "rio_grande_chuva_mm": 0.6,
+   "integrado_pct": 50.89
+  },
+  {
+   "data": "2026-06-14",
+   "rio_grande_pct": 84.21,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 50.87
+  },
+  {
+   "data": "2026-06-15",
+   "rio_grande_pct": 84.18,
+   "rio_grande_chuva_mm": 11.6,
+   "integrado_pct": 50.91
+  },
+  {
+   "data": "2026-06-16",
+   "rio_grande_pct": 84.38,
+   "rio_grande_chuva_mm": 5.0,
+   "integrado_pct": 50.98
+  },
+  {
+   "data": "2026-06-17",
+   "rio_grande_pct": 84.54,
+   "rio_grande_chuva_mm": 2.0,
+   "integrado_pct": 51.0
+  },
+  {
+   "data": "2026-06-18",
+   "rio_grande_pct": 84.52,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 50.95
+  },
+  {
+   "data": "2026-06-19",
+   "rio_grande_pct": 84.37,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 50.83
+  },
+  {
+   "data": "2026-06-20",
+   "rio_grande_pct": 84.15,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 50.72
+  },
+  {
+   "data": "2026-06-21",
+   "rio_grande_pct": 84.03,
+   "rio_grande_chuva_mm": 3.4,
+   "integrado_pct": 50.65
+  },
+  {
+   "data": "2026-06-22",
+   "rio_grande_pct": 83.85,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 50.54
+  },
+  {
+   "data": "2026-06-23",
+   "rio_grande_pct": 83.72,
+   "rio_grande_chuva_mm": 0.2,
+   "integrado_pct": 50.4
+  },
+  {
+   "data": "2026-06-24",
+   "rio_grande_pct": 86.06,
+   "rio_grande_chuva_mm": 86.0,
+   "integrado_pct": 51.13
+  },
+  {
+   "data": "2026-06-25",
+   "rio_grande_pct": 87.96,
+   "rio_grande_chuva_mm": 12.0,
+   "integrado_pct": 52.02
+  },
+  {
+   "data": "2026-06-26",
+   "rio_grande_pct": 88.82,
+   "rio_grande_chuva_mm": 0.8,
+   "integrado_pct": 52.4
+  },
+  {
+   "data": "2026-06-27",
+   "rio_grande_pct": 89.01,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 52.52
+  },
+  {
+   "data": "2026-06-28",
+   "rio_grande_pct": 88.93,
+   "rio_grande_chuva_mm": 0.2,
+   "integrado_pct": 52.51
+  },
+  {
+   "data": "2026-06-29",
+   "rio_grande_pct": 88.82,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 52.49
+  },
+  {
+   "data": "2026-06-30",
+   "rio_grande_pct": 88.7,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 52.48
+  },
+  {
+   "data": "2026-07-01",
+   "rio_grande_pct": 88.48,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 52.38
+  },
+  {
+   "data": "2026-07-02",
+   "rio_grande_pct": 88.26,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 52.28
+  },
+  {
+   "data": "2026-07-03",
+   "rio_grande_pct": 88.03,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 52.16
+  },
+  {
+   "data": "2026-07-04",
+   "rio_grande_pct": 87.85,
+   "rio_grande_chuva_mm": 0.2,
+   "integrado_pct": 52.06
+  },
+  {
+   "data": "2026-07-05",
+   "rio_grande_pct": 87.7,
+   "rio_grande_chuva_mm": 0.2,
+   "integrado_pct": 51.93
+  },
+  {
+   "data": "2026-07-06",
+   "rio_grande_pct": 87.55,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 51.84
+  },
+  {
+   "data": "2026-07-07",
+   "rio_grande_pct": 87.34,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 51.74
+  },
+  {
+   "data": "2026-07-08",
+   "rio_grande_pct": 87.17,
+   "rio_grande_chuva_mm": 0.2,
+   "integrado_pct": 51.61
+  },
+  {
+   "data": "2026-07-09",
+   "rio_grande_pct": 87.0,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 51.46
+  },
+  {
+   "data": "2026-07-10",
+   "rio_grande_pct": 86.75,
+   "rio_grande_chuva_mm": 0.2,
+   "integrado_pct": 51.31
+  },
+  {
+   "data": "2026-07-11",
+   "rio_grande_pct": 86.55,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 51.19
+  },
+  {
+   "data": "2026-07-12",
+   "rio_grande_pct": 86.44,
+   "rio_grande_chuva_mm": 10.6,
+   "integrado_pct": 51.12
+  },
+  {
+   "data": "2026-07-13",
+   "rio_grande_pct": 86.36,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 51.06
+  },
+  {
+   "data": "2026-07-14",
+   "rio_grande_pct": 86.19,
+   "rio_grande_chuva_mm": 0.2,
+   "integrado_pct": 50.93
+  },
+  {
+   "data": "2026-07-15",
+   "rio_grande_pct": 86.0,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 50.8
+  },
+  {
+   "data": "2026-07-16",
+   "rio_grande_pct": 85.8,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 50.68
+  },
+  {
+   "data": "2026-07-17",
+   "rio_grande_pct": 85.55,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 50.53
+  },
+  {
+   "data": "2026-07-18",
+   "rio_grande_pct": 85.32,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 50.34
+  },
+  {
+   "data": "2026-07-19",
+   "rio_grande_pct": 84.98,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 50.18
+  },
+  {
+   "data": "2026-07-20",
+   "rio_grande_pct": 84.77,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 50.01
+  },
+  {
+   "data": "2026-07-21",
+   "rio_grande_pct": 84.47,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 49.82
+  },
+  {
+   "data": "2026-07-22",
+   "rio_grande_pct": 84.18,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 49.6
+  },
+  {
+   "data": "2026-07-23",
+   "rio_grande_pct": 83.89,
+   "rio_grande_chuva_mm": 2.0,
+   "integrado_pct": 49.38
+  },
+  {
+   "data": "2026-07-24",
+   "rio_grande_pct": 83.74,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 49.18
+  },
+  {
+   "data": "2026-07-25",
+   "rio_grande_pct": 83.39,
+   "rio_grande_chuva_mm": 0.4,
+   "integrado_pct": 49.04
+  },
+  {
+   "data": "2026-07-26",
+   "rio_grande_pct": 83.22,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 48.9
+  },
+  {
+   "data": "2026-07-27",
+   "rio_grande_pct": 82.98,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 48.75
+  },
+  {
+   "data": "2026-07-28",
+   "rio_grande_pct": 82.73,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 48.6
+  },
+  {
+   "data": "2026-07-29",
+   "rio_grande_pct": 82.49,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 48.44
+  },
+  {
+   "data": "2026-07-30",
+   "rio_grande_pct": 82.16,
+   "rio_grande_chuva_mm": 0.8,
+   "integrado_pct": 48.3
+  },
+  {
+   "data": "2026-07-31",
+   "rio_grande_pct": 81.93,
+   "rio_grande_chuva_mm": 0.2,
+   "integrado_pct": 48.15
+  },
+  {
+   "data": "2026-08-01",
+   "rio_grande_pct": 81.68,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 47.97
+  },
+  {
+   "data": "2026-08-02",
+   "rio_grande_pct": 81.38,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 47.79
+  },
+  {
+   "data": "2026-08-03",
+   "rio_grande_pct": 81.06,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 47.59
+  },
+  {
+   "data": "2026-08-04",
+   "rio_grande_pct": 80.78,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 47.41
+  },
+  {
+   "data": "2026-08-05",
+   "rio_grande_pct": 80.51,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 47.22
+  },
+  {
+   "data": "2026-08-06",
+   "rio_grande_pct": 80.27,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 47.04
+  },
+  {
+   "data": "2026-08-07",
+   "rio_grande_pct": 79.94,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 46.86
+  },
+  {
+   "data": "2026-08-08",
+   "rio_grande_pct": 79.64,
+   "rio_grande_chuva_mm": 2.0,
+   "integrado_pct": 46.72
+  },
+  {
+   "data": "2026-08-09",
+   "rio_grande_pct": 79.35,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 46.63
+  },
+  {
+   "data": "2026-08-10",
+   "rio_grande_pct": 79.24,
+   "rio_grande_chuva_mm": 9.8,
+   "integrado_pct": 46.55
+  },
+  {
+   "data": "2026-08-11",
+   "rio_grande_pct": 79.16,
+   "rio_grande_chuva_mm": 3.4,
+   "integrado_pct": 46.43
+  },
+  {
+   "data": "2026-08-12",
+   "rio_grande_pct": 79.08,
+   "rio_grande_chuva_mm": 0.8,
+   "integrado_pct": 46.31
+  },
+  {
+   "data": "2026-08-13",
+   "rio_grande_pct": 78.96,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 46.17
+  },
+  {
+   "data": "2026-08-14",
+   "rio_grande_pct": 78.74,
+   "rio_grande_chuva_mm": 0.2,
+   "integrado_pct": 46.01
+  },
+  {
+   "data": "2026-08-15",
+   "rio_grande_pct": 78.62,
+   "rio_grande_chuva_mm": 7.2,
+   "integrado_pct": 45.91
+  },
+  {
+   "data": "2026-08-16",
+   "rio_grande_pct": 79.29,
+   "rio_grande_chuva_mm": 21.6,
+   "integrado_pct": 45.99
+  },
+  {
+   "data": "2026-08-17",
+   "rio_grande_pct": 79.24,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 45.87
+  },
+  {
+   "data": "2026-08-18",
+   "rio_grande_pct": 79.02,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 45.67
+  },
+  {
+   "data": "2026-08-19",
+   "rio_grande_pct": 78.77,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 45.44
+  },
+  {
+   "data": "2026-08-20",
+   "rio_grande_pct": 78.52,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 45.2
+  },
+  {
+   "data": "2026-08-21",
+   "rio_grande_pct": 78.23,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 44.92
+  },
+  {
+   "data": "2026-08-22",
+   "rio_grande_pct": 77.92,
+   "rio_grande_chuva_mm": 0.4,
+   "integrado_pct": 44.71
+  },
+  {
+   "data": "2026-08-23",
+   "rio_grande_pct": 77.55,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 44.49
+  },
+  {
+   "data": "2026-08-24",
+   "rio_grande_pct": 77.32,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 44.26
+  },
+  {
+   "data": "2026-08-25",
+   "rio_grande_pct": 77.04,
+   "rio_grande_chuva_mm": 0.8,
+   "integrado_pct": 44.06
+  },
+  {
+   "data": "2026-08-26",
+   "rio_grande_pct": 76.78,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 43.87
+  },
+  {
+   "data": "2026-08-27",
+   "rio_grande_pct": 76.55,
+   "rio_grande_chuva_mm": 0.2,
+   "integrado_pct": 43.67
+  },
+  {
+   "data": "2026-08-28",
+   "rio_grande_pct": 76.26,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 43.47
+  },
+  {
+   "data": "2026-08-29",
+   "rio_grande_pct": 75.94,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 43.25
+  },
+  {
+   "data": "2026-08-30",
+   "rio_grande_pct": 75.61,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 43.04
+  },
+  {
+   "data": "2026-08-31",
+   "rio_grande_pct": 75.61,
+   "rio_grande_chuva_mm": 17.4,
+   "integrado_pct": 43.05
+  },
+  {
+   "data": "2026-09-01",
+   "rio_grande_pct": 76.22,
+   "rio_grande_chuva_mm": 38.6,
+   "integrado_pct": 43.34
+  },
+  {
+   "data": "2026-09-02",
+   "rio_grande_pct": 76.61,
+   "rio_grande_chuva_mm": 7.8,
+   "integrado_pct": 43.8
+  },
+  {
+   "data": "2026-09-03",
+   "rio_grande_pct": 76.65,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 43.96
+  },
+  {
+   "data": "2026-09-04",
+   "rio_grande_pct": 76.46,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 43.94
+  },
+  {
+   "data": "2026-09-05",
+   "rio_grande_pct": 76.23,
+   "rio_grande_chuva_mm": 8.4,
+   "integrado_pct": 43.83
+  },
+  {
+   "data": "2026-09-06",
+   "rio_grande_pct": 77.03,
+   "rio_grande_chuva_mm": 26.4,
+   "integrado_pct": 44.18
+  },
+  {
+   "data": "2026-09-07",
+   "rio_grande_pct": 78.04,
+   "rio_grande_chuva_mm": 7.2,
+   "integrado_pct": 44.55
+  },
+  {
+   "data": "2026-09-08",
+   "rio_grande_pct": 78.54,
+   "rio_grande_chuva_mm": 2.4,
+   "integrado_pct": 44.67
+  },
+  {
+   "data": "2026-09-09",
+   "rio_grande_pct": 78.73,
+   "rio_grande_chuva_mm": 7.2,
+   "integrado_pct": 44.74
+  },
+  {
+   "data": "2026-09-10",
+   "rio_grande_pct": 78.83,
+   "rio_grande_chuva_mm": 6.4,
+   "integrado_pct": 45.05
+  },
+  {
+   "data": "2026-09-11",
+   "rio_grande_pct": 81.3,
+   "rio_grande_chuva_mm": 70.2,
+   "integrado_pct": 46.56
+  },
+  {
+   "data": "2026-09-12",
+   "rio_grande_pct": 84.69,
+   "rio_grande_chuva_mm": 79.6,
+   "integrado_pct": 48.81
+  },
+  {
+   "data": "2026-09-13",
+   "rio_grande_pct": 87.34,
+   "rio_grande_chuva_mm": 8.8,
+   "integrado_pct": 50.97
+  },
+  {
+   "data": "2026-09-14",
+   "rio_grande_pct": 89.19,
+   "rio_grande_chuva_mm": 26.0,
+   "integrado_pct": 52.14
+  },
+  {
+   "data": "2026-09-15",
+   "rio_grande_pct": 91.04,
+   "rio_grande_chuva_mm": 17.8,
+   "integrado_pct": 53.19
+  },
+  {
+   "data": "2026-09-16",
+   "rio_grande_pct": 91.99,
+   "rio_grande_chuva_mm": 3.0,
+   "integrado_pct": 53.77
+  },
+  {
+   "data": "2026-09-17",
+   "rio_grande_pct": 92.18,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 54.07
+  },
+  {
+   "data": "2026-09-18",
+   "rio_grande_pct": 92.22,
+   "rio_grande_chuva_mm": 0.4,
+   "integrado_pct": 54.27
+  },
+  {
+   "data": "2026-09-19",
+   "rio_grande_pct": 92.2,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 54.36
+  },
+  {
+   "data": "2026-09-20",
+   "rio_grande_pct": 92.12,
+   "rio_grande_chuva_mm": 5.2,
+   "integrado_pct": 54.46
+  },
+  {
+   "data": "2026-09-21",
+   "rio_grande_pct": 92.28,
+   "rio_grande_chuva_mm": 5.2,
+   "integrado_pct": 54.63
+  },
+  {
+   "data": "2026-09-22",
+   "rio_grande_pct": 92.56,
+   "rio_grande_chuva_mm": 29.6,
+   "integrado_pct": 54.97
+  },
+  {
+   "data": "2026-09-23",
+   "rio_grande_pct": 93.39,
+   "rio_grande_chuva_mm": 9.2,
+   "integrado_pct": 55.54
+  },
+  {
+   "data": "2026-09-24",
+   "rio_grande_pct": 94.5,
+   "rio_grande_chuva_mm": 8.6,
+   "integrado_pct": 55.82
+  },
+  {
+   "data": "2026-09-25",
+   "rio_grande_pct": 95.11,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 55.78
+  },
+  {
+   "data": "2026-09-26",
+   "rio_grande_pct": 95.16,
+   "rio_grande_chuva_mm": 0.2,
+   "integrado_pct": 55.62
+  },
+  {
+   "data": "2026-09-27",
+   "rio_grande_pct": 95.08,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 55.58
+  },
+  {
+   "data": "2026-09-28",
+   "rio_grande_pct": 94.98,
+   "rio_grande_chuva_mm": 0.4,
+   "integrado_pct": 55.47
+  },
+  {
+   "data": "2026-09-29",
+   "rio_grande_pct": 94.93,
+   "rio_grande_chuva_mm": 0.2,
+   "integrado_pct": 55.37
+  },
+  {
+   "data": "2026-09-30",
+   "rio_grande_pct": 94.8,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 55.28
+  },
+  {
+   "data": "2026-10-01",
+   "rio_grande_pct": 94.6,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 55.16
+  },
+  {
+   "data": "2026-10-02",
+   "rio_grande_pct": 94.68,
+   "rio_grande_chuva_mm": 9.4,
+   "integrado_pct": 55.13
+  },
+  {
+   "data": "2026-10-03",
+   "rio_grande_pct": 94.66,
+   "rio_grande_chuva_mm": 0.2,
+   "integrado_pct": 55.06
+  },
+  {
+   "data": "2026-10-04",
+   "rio_grande_pct": 94.7,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 54.95
+  },
+  {
+   "data": "2026-10-05",
+   "rio_grande_pct": 94.86,
+   "rio_grande_chuva_mm": 14.0,
+   "integrado_pct": 55.07
+  },
+  {
+   "data": "2026-10-06",
+   "rio_grande_pct": 95.47,
+   "rio_grande_chuva_mm": 4.2,
+   "integrado_pct": 55.21
+  },
+  {
+   "data": "2026-10-07",
+   "rio_grande_pct": 95.47,
+   "rio_grande_chuva_mm": 5.0,
+   "integrado_pct": 55.43
+  },
+  {
+   "data": "2026-10-08",
+   "rio_grande_pct": 95.44,
+   "rio_grande_chuva_mm": 0.4,
+   "integrado_pct": 55.53
+  },
+  {
+   "data": "2026-10-09",
+   "rio_grande_pct": 95.32,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 55.53
+  },
+  {
+   "data": "2026-10-10",
+   "rio_grande_pct": 96.02,
+   "rio_grande_chuva_mm": 32.2,
+   "integrado_pct": 55.91
+  },
+  {
+   "data": "2026-10-11",
+   "rio_grande_pct": 96.25,
+   "rio_grande_chuva_mm": 1.4,
+   "integrado_pct": 56.08
+  },
+  {
+   "data": "2026-10-12",
+   "rio_grande_pct": 96.75,
+   "rio_grande_chuva_mm": 12.4,
+   "integrado_pct": 56.5
+  },
+  {
+   "data": "2026-10-13",
+   "rio_grande_pct": 97.12,
+   "rio_grande_chuva_mm": 8.0,
+   "integrado_pct": 56.75
+  },
+  {
+   "data": "2026-10-14",
+   "rio_grande_pct": 97.28,
+   "rio_grande_chuva_mm": 4.6,
+   "integrado_pct": 56.93
+  },
+  {
+   "data": "2026-10-15",
+   "rio_grande_pct": 97.02,
+   "rio_grande_chuva_mm": 3.4,
+   "integrado_pct": 56.98
+  },
+  {
+   "data": "2026-10-16",
+   "rio_grande_pct": 97.45,
+   "rio_grande_chuva_mm": 34.0,
+   "integrado_pct": 57.24
+  },
+  {
+   "data": "2026-10-17",
+   "rio_grande_pct": 98.34,
+   "rio_grande_chuva_mm": 21.8,
+   "integrado_pct": 57.78
+  },
+  {
+   "data": "2026-10-18",
+   "rio_grande_pct": 98.7,
+   "rio_grande_chuva_mm": 0.8,
+   "integrado_pct": 58.07
+  },
+  {
+   "data": "2026-10-19",
+   "rio_grande_pct": 98.58,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 58.23
+  },
+  {
+   "data": "2026-10-20",
+   "rio_grande_pct": 98.22,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 58.22
+  },
+  {
+   "data": "2026-10-21",
+   "rio_grande_pct": 97.77,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 58.1
+  },
+  {
+   "data": "2026-10-22",
+   "rio_grande_pct": 97.42,
+   "rio_grande_chuva_mm": 1.2,
+   "integrado_pct": 57.96
+  },
+  {
+   "data": "2026-10-23",
+   "rio_grande_pct": 96.98,
+   "rio_grande_chuva_mm": 4.6,
+   "integrado_pct": 57.9
+  },
+  {
+   "data": "2026-10-24",
+   "rio_grande_pct": 96.42,
+   "rio_grande_chuva_mm": 0.6,
+   "integrado_pct": 57.87
+  },
+  {
+   "data": "2026-10-25",
+   "rio_grande_pct": 98.39,
+   "rio_grande_chuva_mm": 84.0,
+   "integrado_pct": 59.01
+  },
+  {
+   "data": "2026-10-26",
+   "rio_grande_pct": 99.56,
+   "rio_grande_chuva_mm": 1.8,
+   "integrado_pct": 60.39
+  },
+  {
+   "data": "2026-10-27",
+   "rio_grande_pct": 100.05,
+   "rio_grande_chuva_mm": 2.8,
+   "integrado_pct": 61.08
+  },
+  {
+   "data": "2026-10-28",
+   "rio_grande_pct": 99.88,
+   "rio_grande_chuva_mm": 0.4,
+   "integrado_pct": 61.3
+  },
+  {
+   "data": "2026-10-29",
+   "rio_grande_pct": 99.44,
+   "rio_grande_chuva_mm": 2.2,
+   "integrado_pct": 61.34
+  },
+  {
+   "data": "2026-10-30",
+   "rio_grande_pct": 99.29,
+   "rio_grande_chuva_mm": 14.8,
+   "integrado_pct": 61.75
+  },
+  {
+   "data": "2026-10-31",
+   "rio_grande_pct": 98.9,
+   "rio_grande_chuva_mm": 0.4,
+   "integrado_pct": 61.95
+  },
+  {
+   "data": "2026-11-01",
+   "rio_grande_pct": 98.34,
+   "rio_grande_chuva_mm": 0.8,
+   "integrado_pct": 62.11
+  },
+  {
+   "data": "2026-11-02",
+   "rio_grande_pct": 97.96,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 62.21
+  },
+  {
+   "data": "2026-11-03",
+   "rio_grande_pct": 96.98,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 62.18
+  },
+  {
+   "data": "2026-11-04",
+   "rio_grande_pct": 96.2,
+   "rio_grande_chuva_mm": 0.0,
+   "integrado_pct": 62.09
+  },
+  {
+   "data": "2026-11-05",
+   "rio_grande_pct": 95.47,
+   "rio_grande_chuva_mm": 4.0,
+   "integrado_pct": 62.03
+  }
+ ]
+}
