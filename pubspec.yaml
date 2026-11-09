@@ -1,0 +1,28 @@
+name: guardinha_da_prancha
+description: "Guardinha da Prancha - painel de inteligência territorial de água e chuva no ABC Paulista (FIAP GS 2026.2)."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:      # textos dos componentes Material em português
+    sdk: flutter
+  provider: ^6.1.2            # estado global (ChangeNotifier)
+  shared_preferences: ^2.3.3  # persistência local (preferências, limiares, ocorrências, cache)
+  http: ^1.2.2                # consumo da API Open-Meteo
+  fl_chart: ^1.0.0            # gráficos dos painéis
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/dados/
+    - assets/marca/
