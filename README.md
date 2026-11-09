@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/marca/logo.png" alt="Logo do Guardinha da Prancha" width="140">
+  <img src="assets/marca/logo-main.png" alt="Logo do Guardinha da Prancha" width="140">
 </p>
 
 <h1 align="center">Guardinha da Prancha</h1>
