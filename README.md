@@ -5,25 +5,22 @@
 <h1 align="center">Guardinha da Prancha</h1>
 
 <p align="center">
-  <b>De olho no céu, nos córregos e nos reservatórios do ABC Paulista — para avisar antes que a água vire problema.</b><br>
-  Global Solution 2026.2 · Cross-Platform Application Development · FIAP · Desafio <i>Territory Predictive Insights</i>
+  Global Solution 2026.2 · Cross-Platform Application Development · FIAP · <i>Territory Predictive Insights</i>
 </p>
 
-> O nome é uma homenagem aos "guardinhas" que ficam de vigia e sinalizam quando algo está para acontecer.
-> Aqui, quem fica de vigia é o app: ele acompanha a chuva, os córregos e os mananciais e **sinaliza com antecedência**,
-> mas quem decide o que fazer é sempre uma pessoa.
+> O nome é uma homenagem aos "guardinhas" que ficam de vigia e sinalizam quando algo está para acontecer, mas não em uma prancha!
 
 ---
 
 ## 1. Problema e público
 
-**O problema.** No ABC Paulista, a água causa dois tipos de crise: **alagamentos** quando temporais de poucas horas fazem córregos como o Ribeirão dos Meninos e o Rio Tamanduateí transbordarem, e **risco de desabastecimento** quando os mananciais (como o Sistema Rio Grande, braço da Billings que abastece boa parte da região) entram em queda prolongada. Nos dois casos, o dano é maior quando o aviso chega tarde: quando a água já está na rua, não dá mais tempo de tirar o carro, os móveis e as pessoas com mobilidade reduzida.
+**O problema:** No ABC Paulista, a água causa dois tipos de crise: **alagamentos** quando temporais de poucas horas fazem córregos como o Ribeirão dos Meninos e o Rio Tamanduateí transbordarem, e **risco de desabastecimento** quando os mananciais (como o Sistema Rio Grande, braço da Billings que abastece boa parte da região) entram em queda prolongada. Nos dois casos, o dano é maior quando o aviso chega tarde: quando a água já está na rua, não dá mais tempo de tirar o carro, os móveis e as pessoas com mobilidade reduzida.
 
-**Para quem.**
+**Para quem:**
 - **Gestores públicos e Defesa Civil municipal:** veem num só lugar a chuva prevista, o nível dos córregos e o volume dos reservatórios, com alertas explicados e o grau de confiança de cada um.
 - **Cidadãos das áreas de risco:** acompanham os alertas e **registram ocorrências** (alagamento, bueiro entupido, falta d'água) de forma anônima.
 
-**Impacto social esperado.** Ganhar **horas de antecedência** para avisar moradores, liberar bueiros e posicionar equipes. O app mostra três indicadores de benefício social na tela inicial: a **antecedência média dos alertas**, os **moradores perto de córregos em alerta** e os **relatos da comunidade**.
+**Impacto social esperado:** Ganhar **horas de antecedência** para avisar moradores, liberar bueiros e posicionar equipes. O app mostra três indicadores de benefício social na tela inicial: a **antecedência média dos alertas**, os **moradores perto de córregos em alerta** e os **relatos da comunidade**.
 
 ---
 
@@ -38,7 +35,7 @@
 
 ## 3. Demonstração visual
 
-<!-- Tarefa do Antonio: tirar os prints e salvar em assets/screenshots/ com estes nomes. -->
+<!-- tirar os prints e salvar em assets/screenshots/; mudar nome posteriormente -->
 
 | | | |
 |:---:|:---:|:---:|
@@ -161,7 +158,6 @@ Os limiares são **referências do grupo**, inspiradas em faixas usuais de inten
 - **Nível nunca indicado só por cor:** toda etiqueta tem ícone + texto (ATENÇÃO, ALERTA, CRÍTICO).
 - **Fonte ajustável** no app (100–160%), somada ao tamanho de fonte do sistema; layouts que quebram linha em vez de cortar texto.
 - **Leitor de tela:** rótulos (`Semantics`) em cartões, gráficos (o leitor fala valor atual, máximo previsto e limites), etiquetas de nível, barra de confiança e todos os botões de ícone (`tooltip`).
-- Textos em **português simples**, interface toda em pt-BR (inclusive os componentes do sistema).
 - Responsivo: 1 coluna no celular, 2 ou 3 em telas maiores; conteúdo limitado a 840 px em tablets.
 
 ---
@@ -179,7 +175,7 @@ Os limiares são **referências do grupo**, inspiradas em faixas usuais de inten
 | **Open-Meteo** | API de clima aberta, gratuita e **sem chave**: nada de credenciais no repositório. |
 | **Dados da Sabesp em assets** | Dados reais que funcionam sem internet; o painel de reservatórios nunca fica vazio. |
 
-**Arquitetura (camadas)**
+**Arquitetura em camadas**
 
 ```
 lib/
