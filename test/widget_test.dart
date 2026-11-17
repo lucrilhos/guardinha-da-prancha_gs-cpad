@@ -13,11 +13,13 @@ void main() {
   late ArmazenamentoLocal armazenamento;
 
   setUp(() async {
-    SharedPreferences.setMockInitialValues({}); // "aparelho" vazio e falso, só para o teste
+    SharedPreferences.setMockInitialValues(
+        {}); // "aparelho" vazio e falso, só para o teste
     armazenamento = ArmazenamentoLocal(await SharedPreferences.getInstance());
   });
 
-  testWidgets('formulário vazio mostra as mensagens de erro e não salva nada', (tester) async {
+  testWidgets('formulário vazio mostra as mensagens de erro e não salva nada',
+      (tester) async {
     // Arrange
     final ocorrencias = OcorrenciasProvider(armazenamento);
     await tester.pumpWidget(
@@ -27,9 +29,12 @@ void main() {
       ),
     );
 
-    // Act: tenta enviar sem preencher nada
+// Act: tenta enviar sem preencher nada
     final botao = find.byKey(const Key('botao-enviar-ocorrencia'));
+    await tester.drag(find.byType(Scrollable).first, const Offset(0, -300));
+    await tester.pumpAndSettle();
     await tester.ensureVisible(botao);
+    await tester.pumpAndSettle();
     await tester.tap(botao);
     await tester.pump();
 
@@ -37,11 +42,13 @@ void main() {
     expect(find.text('Escolha o tipo de ocorrência.'), findsOneWidget);
     expect(find.text('Escolha a região.'), findsOneWidget);
     expect(find.text('Descreva o que está acontecendo.'), findsOneWidget);
-    expect(find.text('É preciso concordar para enviar o relato.'), findsOneWidget);
+    expect(
+        find.text('É preciso concordar para enviar o relato.'), findsOneWidget);
     expect(ocorrencias.total, 0);
   });
 
-  test('registrar ocorrência apaga o telefone antes de salvar no aparelho', () async {
+  test('registrar ocorrência apaga o telefone antes de salvar no aparelho',
+      () async {
     // Arrange
     final ocorrencias = OcorrenciasProvider(armazenamento);
 
@@ -60,9 +67,12 @@ void main() {
     expect(salvas.first.descricao, isNot(contains('91234')));
   });
 
-  testWidgets('etiqueta de nível mostra texto (não só cor) e tem rótulo para leitor de tela', (tester) async {
+  testWidgets(
+      'etiqueta de nível mostra texto (não só cor) e tem rótulo para leitor de tela',
+      (tester) async {
     // Arrange + Act
-    await tester.pumpWidget(const MaterialApp(home: Scaffold(body: ChipNivel(NivelAlerta.critico))));
+    await tester.pumpWidget(const MaterialApp(
+        home: Scaffold(body: ChipNivel(NivelAlerta.critico))));
 
     // Assert
     expect(find.text('CRÍTICO'), findsOneWidget);
