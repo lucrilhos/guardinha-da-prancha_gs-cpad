@@ -28,8 +28,8 @@
 
 | Nome completo | RM |
 |---|---|
-| Lucas M. Moraes | RM563667 |
-| Antonio Lucas | RM565516 |
+| Lucas Mendes Moraes | RM563667 |
+| Antonio Lucas Santana Tavares | RM565516 |
 
 ---
 
