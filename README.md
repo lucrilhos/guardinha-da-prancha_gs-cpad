@@ -245,7 +245,7 @@ flutter run
 
 ## 9. Vídeo
 
-🎬 **[Assista à demonstração (até 3 minutos)](LINK_DO_VIDEO)**
+🎬 **[GUARDINHA_DA_PRANCHA](https://youtu.be/_TaFPkV3F3E)**
 
 ---
 
