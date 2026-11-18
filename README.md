@@ -35,15 +35,33 @@
 
 ## 3. Demonstração visual
 
-<!-- tirar os prints e salvar em assets/screenshots/; mudar nome posteriormente -->
+| Consentimento e Privacidade | Visão Geral (Início) |
+| :---: | :---: |
+| ![Consentimento](assets/screenshots/01_consentimento.png)<br>*Termo de consentimento explícito no primeiro acesso.* | ![Início](assets/screenshots/02_inicio.png)<br>*Painel principal com indicadores de benefício social.* |
 
-| | | |
-|:---:|:---:|:---:|
-| <img src="assets/screenshots/01_consentimento.png" width="220"><br>**Consentimento** — dados usados e aceite explícito | <img src="assets/screenshots/02_inicio.png" width="220"><br>**Início** — alertas, painéis e impacto social | <img src="assets/screenshots/03_painel_clima.png" width="220"><br>**Painel de clima** — chuva medida e prevista |
-| <img src="assets/screenshots/04_painel_corregos.png" width="220"><br>**Painel dos córregos** — nível e previsão de 6 h | <img src="assets/screenshots/05_painel_reservatorios.png" width="220"><br>**Painel dos reservatórios** — volume e projeção | <img src="assets/screenshots/06_indicador.png" width="220"><br>**Detalhe do indicador** — histórico, tendência e fonte |
-| <img src="assets/screenshots/07_alertas.png" width="220"><br>**Alertas** — lista com filtro por painel | <img src="assets/screenshots/08_alerta_detalhe.png" width="220"><br>**Detalhe do alerta** — evidências, confiança e limitações | <img src="assets/screenshots/09_ocorrencias.png" width="220"><br>**Ocorrências** — relatos anônimos |
-| <img src="assets/screenshots/10_ocorrencia_form.png" width="220"><br>**Nova ocorrência** — formulário com validação | <img src="assets/screenshots/11_limiares.png" width="220"><br>**Limiares** — configuração validada | <img src="assets/screenshots/12_ajustes.png" width="220"><br>**Ajustes** — temas, fonte e demonstração |
-| <img src="assets/screenshots/13_sobre.png" width="220"><br>**Sobre e privacidade** | <img src="assets/screenshots/14_tema_escuro.png" width="220"><br>**Tema escuro** | <img src="assets/screenshots/15_alto_contraste.png" width="220"><br>**Alto contraste + fonte ampliada** |
+| Painel de Clima | Painel de Córregos |
+| :---: | :---: |
+| ![Painel Clima](assets/screenshots/03_painel_clima.png)<br>*Previsão e histórico pluviométrico local.* | ![Painel Córregos](assets/screenshots/04_painel_corregos.png)<br>*Monitoramento simulado dos córregos do ABC.* |
+
+| Painel de Reservatórios | Detalhe do Indicador |
+| :---: | :---: |
+| ![Painel Reservatórios](assets/screenshots/05_painel_reservatorios.png)<br>*Nível dos reservatórios e tendência histórica.* | ![Detalhe Indicador](assets/screenshots/06_indicador_detalhe.png)<br>*Leitura detalhada e métricas do indicador.* |
+
+| Lista de Alertas | Detalhe do Alerta |
+| :---: | :---: |
+| ![Alertas](assets/screenshots/07_alertas.png)<br>*Alertas ativos e aviso de decisão humana.* | ![Detalhe Alerta](assets/screenshots/08_alerta_detalhe.png)<br>*Evidência, nível de confiança e limitações.* |
+
+| Ocorrências Comunitárias | Formulário de Ocorrência |
+| :---: | :---: |
+| ![Ocorrências](assets/screenshots/09_ocorrencias.png)<br>*Relatos registrados localmente no dispositivo.* | ![Formulário](assets/screenshots/10_ocorrencia_form.png)<br>*Cadastro com validação e anonimização automática.* |
+
+| Ajustes e Acessibilidade | Configuração de Limiares |
+| :---: | :---: |
+| ![Ajustes](assets/screenshots/11_ajustes.png)<br>*Tema escuro, alto contraste e gestão de dados.* | ![Limiares](assets/screenshots/12_limiares.png)<br>*Personalização dos gatilhos de alerta.* |
+
+| Sobre o App | |
+| :---: | :---: |
+| ![Sobre](assets/screenshots/13_sobre.png)<br>*Equipe, fontes de dados, privacidade e supervisão humana.* | |
 
 ---
 
